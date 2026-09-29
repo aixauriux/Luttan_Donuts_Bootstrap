@@ -601,12 +601,12 @@ body {
     width: 200px;
     background-color: #2c1b2e;
     color: white;
-    padding: 20px 1px;
+    padding: 20px 15px;
 }
 
 .sidebar .usuario {
     background-color: #3d2840;
-    padding: 10px;
+    padding: 8px;
     border-radius: 8px;
     font-size: 13px;
     margin: 15px 0;
